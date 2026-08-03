@@ -16,8 +16,7 @@ Organizations often struggle to understand why employees leave the company. The 
 
 ## 📊 Dashboard Preview
 
-![HR_Dashboard](Images/Dashboard.png)
-
+![HR_Dashboard.png]
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
