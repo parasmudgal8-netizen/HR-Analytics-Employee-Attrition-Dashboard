@@ -16,9 +16,7 @@ Organizations often struggle to understand why employees leave the company. The 
 
 ## 📊 Dashboard Preview
 
-> Add the dashboard screenshot below.
-
-![Dashboard](Images/Dashboard.png)
+![HR_Dashboard](Images/Dashboard.png)
 
 ---
 
